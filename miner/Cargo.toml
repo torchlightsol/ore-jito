@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "ore-cli",
+    "jito_protos",
+    "searcher_client",
+]
+resolver = "2"
